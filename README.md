@@ -24,7 +24,6 @@ Os clientes permanecem em média 40 minutos, gastando 17,00 na mediana e no máx
 nessa amostra, o faturamento do jantar foi maior em clientes do gênero masculino (3.660,03 reais) enquanto feminino gastou (1.570,95 reais).
 
 Boxplot com o valor dos pedidos:
-
 ![image](https://github.com/lauranonato/Estatistica-Descritiva/assets/56266061/1e1f4099-0ed2-428e-9c7e-078940dd70cd)
 
 Com a moda, podemos descrever alguns padrõres no comportamento dos clientes como o sabádo é o dia preferido para frequentar o restaurante, no período de jantar, e em maior parte não são fumantes. 
