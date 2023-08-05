@@ -16,6 +16,7 @@ O dataset tem 244 registros e 8 colunas
 |tempo_permanencia|tempo de permanencia no restaurante|
 
 **analise descritiva**
+
 apesar de técnicas básicas, é possível encontrar padrões e detalhar um raio x sobre o perfil dos clientes e faturamento do restaurante.
 É um dataset pequeno, onde os dados estão coerentes dado que média e mediana tem valores próximos e apontam para uma possível distribuição normal.
 
