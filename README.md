@@ -20,7 +20,6 @@ O dataset tem 244 registros e 8 colunas
 apesar de técnicas básicas, é possível encontrar padrões e detalhar um raio x sobre o perfil dos clientes e faturamento do restaurante.
 É um dataset pequeno, onde os dados estão coerentes dado que média e mediana tem valores próximos e apontam para uma possível distribuição normal.
 
-resumo 
 Os clientes permanecem em média 40 minutos, gastando 17,00 na mediana e no máximo 50,00 e doam aproximadamente 3,00 de gorjeta aos funcionários. 
 nessa amostra, o faturamento do jantar foi maior em clientes do gênero masculino (3.660,03 reais) enquanto feminino gastou (1.570,95 reais).
 
